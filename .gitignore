@@ -1,4 +1,5 @@
-/target/
-/.vscode/
-/.idea/
-/.classpath
+node_modules/
+target/
+build/
+.idea/
+.vscode/
